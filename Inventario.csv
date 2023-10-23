@@ -1,0 +1,21 @@
+﻿id_producto;nombre;cantidad_disponible;cantidad_vendidos;estado;precio;categoria;ml;tipo;gramos;sabor;tamaño;tipo_dulce;sabor_dulce
+1;Tortrix de limon;50;75;Disponible;2;Snack;;;150;Limon;Individual;;
+2;Tortrix de barbacoa;45;80;Disponible;2;Snack;;;150;Barbacoa;Individual;;
+3;Tortrix twist ;60;65;Disponible;2;Snack;;;150;Queso;Individual;;
+4;Tortrix Chile;45;80;Disponible;2;Snack;;;150;Chile;Individual;;
+5;Tortrix Frijol;75;50;Disponible;2;Snack;;;150;Frijol;Individual;;
+6;Tortrix Chiltepe;75;50;Disponible;2;Snack;;;150;Chiltepe;Individual;;
+7;Coca Cola;50;100;Disponible;6;Bebida;355;Soda;;;;;
+8;Coca Cola Cero;75;75;Disponible;6;Bebida;355;Soda;;;;;
+9;Fanta Naranja;80;70;Disponible;6;Bebida;355;Soda;;;;;
+10;Fanta Uva;90;60;Disponible;6;Bebida;355;Soda;;;;;
+11;Seven Up;75;75;Disponible;6;Bebida;355;Soda;;;;;
+12;Pepsi;75;75;Disponible;6;Bebida;355;Soda;;;;;
+13;Mirinda;90;60;Disponible;6;Bebida;355;Soda;;;;;
+14;Grapete;80;70;Disponible;6;Bebida;355;Soda;;;;;
+15;Sprite;70;80;Disponible;6;Bebida;355;Soda;;;;;
+16;Agua Pura Salvavidas;50;100;Disponible;5;Bebida;600;Natural;;;;;
+17;Chocolate Hershy Oreo;70;30;Disponible;8;NuevaCategoria;;;;;;Chocolate;Oreo y chocolate blanco
+18;Gomitas de delfin;50;100;Disponible;4;NuevaCategoria;;;;;;Gomitas;Cereza
+19;M&M's;60;90;Disponible;8;NuevaCategoria;;;;;;Chocolate;Mania y chocolate
+20;Snicker;55;95;Disponible;8;NuevaCategoria;;;;;;Chocolate;Caramelo y almendras
